@@ -1,1 +1,1 @@
-This repository contains the speet-time data for Patiala driving cycle. This research work will be extended upto adaptability studies of electric vehicles to this traffic scenario.
+This repository contains the speet-time data for Patiala driving cycle. This research work will be extended upto adaptability studies of electric vehicles to this traffic scenario and battery management systems algorithm development. The complete raw data can be accessed by sending a request to tamoghna.bhattacharya@yahoo.com.
